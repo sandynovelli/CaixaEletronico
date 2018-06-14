@@ -1,0 +1,7 @@
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\CaixaEletronicoTestes\bin\Debug\CaixaEletronicoTestes.dll
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\CaixaEletronicoTestes\bin\Debug\CaixaEletronicoTestes.pdb
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\CaixaEletronicoTestes\obj\Debug\CaixaEletronicoTestes.csprojResolveAssemblyReference.cache
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\CaixaEletronicoTestes\obj\Debug\CaixaEletronicoTestes.dll
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\CaixaEletronicoTestes\obj\Debug\CaixaEletronicoTestes.pdb
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\CaixaEletronicoTestes\bin\Debug\ATM.dll
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\CaixaEletronicoTestes\bin\Debug\ATM.pdb

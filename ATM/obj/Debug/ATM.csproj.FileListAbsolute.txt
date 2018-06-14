@@ -1,0 +1,5 @@
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\ATM\bin\Debug\ATM.dll
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\ATM\bin\Debug\ATM.pdb
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\ATM\obj\Debug\ATM.dll
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\ATM\obj\Debug\ATM.pdb
+c:\users\sandy\documents\visual studio 2013\Projects\CaixaEletronico\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
